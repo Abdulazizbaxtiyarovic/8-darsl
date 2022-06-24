@@ -1,0 +1,151 @@
+.hh{
+    width: 1350px;
+    height: 600px;
+    position: relative;
+    min-width: 1350px;
+}
+body{
+    font-family: "Montserrat" , sans-serif;
+    margin: 0;
+    min-width: 1347px;
+    max-width: 1347px;
+    background-color:  #f2c140
+}
+.rounted{
+    position: absolute;
+    width: 100px;
+    border-radius: 50%;
+    z-index: 50;
+    transition: 1s;
+}
+.gd{
+        text-align: center;
+        color: rgb(121, 121, 121);  
+}
+.df{
+margin-right: 50px;
+}
+.dg{
+margin-left: 10px;
+}
+.bottom{
+    text-align: center;
+    width: 1300px;
+}
+*{
+scroll-behavior: smooth;
+}
+.px{
+  margin-left: 1270px;
+  width: 50px;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+h1{
+    font-family: "Italianno", cursive ;
+}
+.h2.h3{
+font-family: "Gluten",cursive;
+}
+.rounted:hover{
+    height: 220px;
+    width: 220px;
+}
+.big-img{
+    width: 150px;
+    border-radius: 50%;
+    margin-right: 30px;
+    margin-left: 30px;
+    float: left;
+}
+.minni-img{
+    width: 80%;
+}
+.to-right{
+    float: right;
+    
+}
+.to-left{
+float: left;
+
+}
+.member{
+    width: 80%;
+    margin: auto;
+    padding-bottom: 30px;
+    line-height: 30px;
+    padding-left: 20px;
+}
+.ozi{
+    width: 125px;
+    height: 125px;
+    border-radius: 200px;
+    position: absolute;
+    left: 1130px;
+    bottom: 145px;
+}
+.css{
+    width: 165px;
+    height: 155px;
+    position: absolute;
+    left: 160px;
+    bottom: 145px;
+    border-radius: 200px;
+}
+.vv{
+    width: 180px;
+    height: 170px;
+    position: absolute;
+    border-radius: 200px;
+    left: 960px;
+    bottom: 290px;
+}
+.jh{
+    width: 175px;
+    height: 170px;
+    position: absolute;
+    left: 313px;
+    bottom: 375px;
+    border-radius: 200px;
+}
+.ssc{
+    width: 157px;
+    height: 153px;
+    position: absolute;
+    left: 790px;
+    bottom: 400px;
+    border-radius: 200px;
+}
+.ll{
+    width: 157px;
+    height: 139px;
+    position: absolute;
+    left: 1150px;
+    bottom: 425px;
+    border-radius: 200px;
+}
+.ada{
+  position: relative;
+  text-align: center;
+}
+.cl{
+    background-color:  #f2c140;
+}
+.dad{
+    background-color:  #f2c140 ;
+    width: 1350px;
+    height: 50px;
+}
+.mm{
+    border-radius: 50%;
+    width: 200px;
+}
+.dd{
+    width: 157px;
+    height: 150px;
+    position: absolute;
+    left: 60px;
+    bottom: 345px;
+    border-radius: 200px;
+}
